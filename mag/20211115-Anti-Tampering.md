@@ -1,8 +1,8 @@
+# MAG still opposes anti-tampering proposals despite latest DfT clarification.
+
 Date: 15 November 2021
 
 News from the Motorcycle Action Group (MAG)
-
-# MAG still opposes anti-tampering proposals despite latest DfT clarification.
 
 The Motorcycle Action Group (MAG) remains opposed to vehicle
 anti-tampering proposals despite a recent clarification of the
@@ -69,4 +69,5 @@ machine, nor to increase its emissions. This leads me to ask: what
 problem needs to be solved?”
 
 The consultation remains open until 11:45pm on 22 November 2021.
-[https://www.gov.uk/government/consultations/future-of-transport-regulatory-review-modernising-vehicle-standards/future-of-transport-regulatory-review-modernising-vehicle-standards](https://www.gov.uk/government/consultations/future-of-transport-regulatory-review-modernising-vehicle-standards/future-of-transport-regulatory-review-modernising-vehicle-standards)
+
+https://www.gov.uk/government/consultations/future-of-transport-regulatory-review-modernising-vehicle-standards/future-of-transport-regulatory-review-modernising-vehicle-standards or [click here](https://www.gov.uk/government/consultations/future-of-transport-regulatory-review-modernising-vehicle-standards/future-of-transport-regulatory-review-modernising-vehicle-standards)
