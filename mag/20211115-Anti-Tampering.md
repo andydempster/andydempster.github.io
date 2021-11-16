@@ -45,10 +45,10 @@ security and the environment.
 
 We do not intend our proposals to:
 
--       prevent legitimate motorsport activities
--       prevent restoration, repairs or legitimate improvements to vehicles,
+- prevent legitimate motorsport activities
+- prevent restoration, repairs or legitimate improvements to vehicles,
 such as classic cars or motorbikes
--       negatively impact businesses involved in these activities
+- negatively impact businesses involved in these activities
 
 MAG’s Vice Chair, Ian Churchlow, was quick to point out that
 customisation of non-classic vehicles is not specifically mentioned.
