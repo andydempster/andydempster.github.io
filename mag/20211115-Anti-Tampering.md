@@ -1,5 +1,5 @@
 ### 15 November 2021
-### News: MAG still opposes anti-tampering proposals despite latest DfT clarification
+## News: MAG still opposes anti-tampering proposals despite latest DfT clarification
 
 News from the Motorcycle Action Group (MAG)
 
