@@ -5,6 +5,8 @@ you're not a member you should probably move along!
 
 ## Links
 ### 2022
+07 Feb - [News: MAG to collaborate with MCIA on decarbonisation plan](./20220207-MCIA-Decarbonisation.md)
+
 02 Feb - [News: MAG: "motorcycle ‘Action Plan’ is just half of the story".](./20220202-Motorcycle-Action-Plan.md)
 ### 2021
 15 Nov - [News: MAG still opposes anti-tampering proposals despite latest DfT clarification](./20211115-Anti-Tampering.md)
