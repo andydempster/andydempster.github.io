@@ -5,6 +5,8 @@ you're not a member you should probably move along!
 
 ## Links
 ### 2022
+22 Feb - [Motorcycle Action Group (MAG) Withdraws from the National Motorcycle Council (NMC)](./20220222-MAG-withdraws-from-NCM.md)
+
 07 Feb - [News: MAG to collaborate with MCIA on decarbonisation plan](./20220207-MCIA-Decarbonisation.md)
 
 02 Feb - [News: MAG: "motorcycle ‘Action Plan’ is just half of the story".](./20220202-Motorcycle-Action-Plan.md)
