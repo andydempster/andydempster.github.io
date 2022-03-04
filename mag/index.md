@@ -5,6 +5,8 @@ you're not a member you should probably move along!
 
 ## Links
 ### 2022
+03 Mar - [News: MAG welcomes NABD to UK Motorcycling](./20220303-MAG-welcomes-NABD.md)
+
 23 Feb - [News: MAG unite with industry on a motorcycling 'Journey to a Brighter Destination'](./20220223-MAG-unites-with-industry.md)
 
 22 Feb - [Motorcycle Action Group (MAG) Withdraws from the National Motorcycle Council (NMC)](./20220222-MAG-withdraws-from-NCM.md)
