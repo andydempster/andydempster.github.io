@@ -5,6 +5,10 @@ you're not a member you should probably move along!
 
 ## Links
 ### 2022
+30 Mar - [News: Date set for parliamentary debate on anti-tamper proposals - ACTION REQUIRED](./20220330-Anti-tampering-debate.md)
+
+29 Mar - [News: Electric vehicle infrastructure strategy inadequate for motorcyclists](./20220329-Electric-Vehicle-strategy.md)
+
 03 Mar - [News: MAG welcomes NABD to UK Motorcycling](./20220303-MAG-welcomes-NABD.md)
 
 23 Feb - [News: MAG unite with industry on a motorcycling 'Journey to a Brighter Destination'](./20220223-MAG-unites-with-industry.md)
