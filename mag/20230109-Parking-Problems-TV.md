@@ -20,6 +20,6 @@ The below is their exact wording:
 
 Do you think you could do a bit of a call out to see if any motorcyclists who have experienced something like this would be happy to speak with us? It would be great to have a motorcyclist perspective in the programme.”
 
-If you are interested in being involved in the program the window is relatively small (next two weeks) please contact the researched directly:  Liz Fox -  liz.fox@multistory.tv
+If you are interested in being involved in the program the window is relatively small (next two weeks) please contact the researched directly:  Liz Fox -  [liz.fox@multistory.tv](mailto:liz.fox@multistory.tv)
 
 
